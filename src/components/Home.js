@@ -9,7 +9,10 @@ export const Home = () => (
                 <div>
                     <img src={logo} className="App-logo" alt="logo" />
                 </div>
-                <div><h1>Dario</h1></div>
+                <div id="biografia">
+                    <h1>Dario</h1>
+                    <p>Coloque aqui sua biografia resumida. Coloque aqui sua biografia resumida. Coloque aqui sua biografia resumida. Coloque aqui sua biografia resumida. Coloque aqui sua biografia resumida. Coloque aqui sua biografia resumida. Coloque aqui sua biografia resumida.</p>
+                    </div>
             </div>
         </HeaderContainer>
         <Content />
