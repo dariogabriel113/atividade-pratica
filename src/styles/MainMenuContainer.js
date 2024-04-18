@@ -9,6 +9,10 @@ export const MainMenuContainer = styled.nav`
         li {
             display: inline-block;
             margin-right: 3%;
+
+            a {
+                color: #FFFFFF;
+            }
         }
     }
 `
